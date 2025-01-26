@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je m'appelle Amine</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour+%F0%9F%91%8B%2C+Je+m'appelle+Amine;Je+suis+passionn%C3%A9+d'informatique" alt="Typing SVG" /></a></h1>
 <h3 align="center">Je suis un jeune développeur web en formation dans l'organisme de formation ELAN FORMATION. je prépare le titre de développeur web et web mobile.</h3>
 
 - 🔭 Je travail actuellement sur [Session](https://github.com/Amine-Bouguettaya/Session)
